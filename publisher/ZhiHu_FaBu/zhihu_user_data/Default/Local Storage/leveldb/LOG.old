@@ -1,0 +1,20 @@
+2025/12/14-15:52:42.755 6934 Reusing MANIFEST D:\PycharmProjects\ZhiHu_FaBu\zhihu_user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/14-15:52:42.758 6934 Recovering log #4
+2025/12/14-15:52:42.759 6934 Reusing old log D:\PycharmProjects\ZhiHu_FaBu\zhihu_user_data\Default\Local Storage\leveldb/000004.log 
+2025/12/14-15:54:43.382 6634 Level-0 table #7: started
+2025/12/14-15:54:43.387 6634 Level-0 table #7: 24840 bytes OK
+2025/12/14-15:54:43.394 6634 Delete type=0 #4
+2025/12/14-15:56:43.390 6634 Level-0 table #9: started
+2025/12/14-15:56:43.395 6634 Level-0 table #9: 19820 bytes OK
+2025/12/14-15:56:43.403 6634 Delete type=0 #6
+2025/12/14-15:58:43.390 6634 Level-0 table #11: started
+2025/12/14-15:58:43.395 6634 Level-0 table #11: 19120 bytes OK
+2025/12/14-15:58:43.404 6634 Delete type=0 #8
+2025/12/14-15:58:43.405 6634 Compacting 4@0 + 0@1 files
+2025/12/14-15:58:43.413 6634 Generated table #12@0: 29 keys, 14064 bytes
+2025/12/14-15:58:43.413 6634 Compacted 4@0 + 0@1 files => 14064 bytes
+2025/12/14-15:58:43.420 6634 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/14-15:58:43.423 6634 Delete type=2 #3
+2025/12/14-15:58:43.423 6634 Delete type=2 #7
+2025/12/14-15:58:43.423 6634 Delete type=2 #9
+2025/12/14-15:58:43.423 6634 Delete type=2 #11

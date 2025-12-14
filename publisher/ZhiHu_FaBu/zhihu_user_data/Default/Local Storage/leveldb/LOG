@@ -1,0 +1,5 @@
+2025/12/14-15:59:41.690 4568 Reusing MANIFEST D:\PycharmProjects\ZhiHu_FaBu\zhihu_user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/14-15:59:41.694 4568 Recovering log #10
+2025/12/14-15:59:41.694 4568 Level-0 table #14: started
+2025/12/14-15:59:41.700 4568 Level-0 table #14: 21049 bytes OK
+2025/12/14-15:59:41.705 4568 Delete type=0 #10
